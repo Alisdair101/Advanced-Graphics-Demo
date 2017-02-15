@@ -1,46 +1,46 @@
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\vc140.pdb
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\vc140.idb
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\texturemanager.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\shadermanager.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\scenelight.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\rendertotextureprocess.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\renderprocess.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\gameobject.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\main.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\inputlayoutmanager.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\imgui_draw.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\imgui_demo.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\imgui.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\guihandler.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11apphelper.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\ddstextureloader.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\cameramouse.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\application.obj
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework basic depth mapping.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework basic.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework deferred lighting.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework dof hor blur.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework dof vert blur.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework horizontal blur.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework parallax ss deferred.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework parallax ss diffuse mapping.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework render to texture.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework depth mapping.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework ssao ambient map.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework ssao normal map.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework pixel.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework vertical blur.cso
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.ilk
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.exe
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.pdb
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.res
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\cl.command.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\cl.read.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\cl.write.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\dx11 framework.write.1u.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\link.command.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\link.read.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\link.write.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\rc.command.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\rc.read.1.tlog
-e:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics\debug\dx11 framework.tlog\rc.write.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\vc140.pdb
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\vc140.idb
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\texturemanager.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\shadermanager.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\scenelight.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\rendertotextureprocess.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\renderprocess.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\gameobject.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\main.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\inputlayoutmanager.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\imgui_draw.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\imgui_demo.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\imgui.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\guihandler.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11apphelper.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\ddstextureloader.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\cameramouse.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\application.obj
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework basic depth mapping.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework basic.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework deferred lighting.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework dof hor blur.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework dof vert blur.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework horizontal blur.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework parallax ss deferred.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework parallax ss diffuse mapping.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework render to texture.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework depth mapping.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework ssao ambient map.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework ssao normal map.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework pixel.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework vertical blur.cso
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.ilk
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.exe
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.pdb
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.res
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\cl.command.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\cl.read.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\cl.write.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\dx11 framework.write.1u.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\link.command.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\link.read.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\link.write.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\rc.command.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\rc.read.1.tlog
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\debug\dx11 framework.tlog\rc.write.1.tlog

@@ -63,6 +63,13 @@ void GUIHandler::UpdateGUI()
 {
 	GUINewFrame();
 
+	//ImVec4 textColour = ImVec4(1.0f, 0.0f, 0.0f, 1.0f);
+
+	//ImGui::TextColored(textColour, "WARNING: CURRENT ISSUE WITH UI ASSUMES YOU HAVE A 1920 x 1080 SCREEN RESOLUTION!");
+
+	//ImGui::Spacing();
+	//ImGui::Spacing();
+
 	ImGui::Text("Light Control Description:");
 	ImGui::Spacing();
 	ImGui::Text("Use WASD to move the currently controlled light forward.");
@@ -220,12 +227,13 @@ void GUIHandler::GUINewFrame()
 
 	POINT p;
 	GetCursorPos(&p);
+	ScreenToClient(DX11AppHelper::_hWnd, &p);
 	ImVec2 mousePos;
 	/*mousePos.x = p.x / 2.0f;
 	mousePos.y = p.y / 1.91f - 20.0f;*/
 
 	mousePos.x = p.x;
-	mousePos.y = (p.y * 1.0625) - 25.0f;
+	mousePos.y = p.y;
 
 	if (io.WantCaptureMouse)
 	{

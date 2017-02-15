@@ -1,2 +1,7 @@
-﻿  DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.exe
+﻿  CameraMouse.cpp
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\dx11apphelper.h(76): warning C4091: 'static ': ignored on left of 'DX11AppHelper' when no variable is declared
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\cameramouse.cpp(285): warning C4100: 'y': unreferenced formal parameter
+k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\cameramouse.cpp(285): warning C4100: 'x': unreferenced formal parameter
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.exe
   DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.pdb (Full PDB)

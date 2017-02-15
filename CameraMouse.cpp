@@ -13,7 +13,7 @@ CameraMouse::CameraMouse(float nearDepth, float farDepth, float windowWidth, flo
 	mNearZ = nearDepth;
 	mFarZ = farDepth;
 
-	mTheta = 3674563.0f;
+	mTheta = -0.9f;
 	mPhi = 1.134f;
 	mRadius = 41.9f;
 
@@ -292,7 +292,7 @@ void CameraMouse::OnMouseMove(int x, int y)
 	if (GetAsyncKeyState(MK_LBUTTON))
 	{
 		// Make each pixel correspond to a quarter of a degree.
-		float dx = XMConvertToRadians(0.35f*static_cast<float>(x - mLastMousePos.x));
+		float dx = XMConvertToRadians(0.25f*static_cast<float>(x - mLastMousePos.x));
 		float dy = XMConvertToRadians(0.25f*static_cast<float>(y - mLastMousePos.y));
 
 		// Update angles based on input to orbit camera around box.

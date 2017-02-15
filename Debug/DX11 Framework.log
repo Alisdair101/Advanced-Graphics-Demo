@@ -1,7 +1,2 @@
-﻿  DX11AppHelper.cpp
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\dx11apphelper.h(76): warning C4091: 'static ': ignored on left of 'DX11AppHelper' when no variable is declared
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\dx11apphelper.cpp(92): warning C4838: conversion from 'UINT' to 'LONG' requires a narrowing conversion
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\dx11apphelper.cpp(382): warning C4715: 'DX11AppHelper::InitConstantBuffers': not all control paths return a value
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\dx11apphelper.cpp(422): warning C4702: unreachable code
-  DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.exe
+﻿  DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.exe
   DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.pdb (Full PDB)

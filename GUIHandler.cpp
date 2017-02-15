@@ -63,12 +63,16 @@ void GUIHandler::UpdateGUI()
 {
 	GUINewFrame();
 
-	//ImVec4 textColour = ImVec4(1.0f, 0.0f, 0.0f, 1.0f);
+	ImVec4 textColour = ImVec4(1.0f, 1.0f, 0.0f, 1.0f);
 
-	//ImGui::TextColored(textColour, "WARNING: CURRENT ISSUE WITH UI ASSUMES YOU HAVE A 1920 x 1080 SCREEN RESOLUTION!");
+	ImGui::TextColored(textColour, "Press ESC to exit this application.");
 
-	//ImGui::Spacing();
-	//ImGui::Spacing();
+	ImGui::Spacing();
+	ImGui::Spacing();
+
+	ImGui::Spacing();
+	ImGui::Spacing();
+	ImGui::Spacing();
 
 	ImGui::Text("Light Control Description:");
 	ImGui::Spacing();

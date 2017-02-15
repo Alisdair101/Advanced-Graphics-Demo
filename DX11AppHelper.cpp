@@ -159,6 +159,8 @@ HRESULT DX11AppHelper::InitDevice()
 			break;
 	}
 
+	_pSwapChain->SetFullscreenState(true, NULL);
+
 	if (FAILED(hr))
 		return hr;
 

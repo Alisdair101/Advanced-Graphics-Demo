@@ -587,27 +587,10 @@ void Application::UpdateLightsControls(float deltaTime)
 
 bool Application::HandleKeyboard(MSG msg, float deltaTime)
 {
-	//for (GameObject* gameObject : _pGameObjects)
-	//{
-	//	gameObject->HandleControls();
-	//}
-
-	//if (GetAsyncKeyState('U'))
-	//{
-	//	_pGameObjects.at(4)->SetPosition(XMFLOAT3(_pGameObjects.at(4)->GetPosition().x, _pGameObjects.at(4)->GetPosition().y, _pGameObjects.at(4)->GetPosition().z + 0.1f));
-	//}
-	//if (GetAsyncKeyState('H'))
-	//{
-	//	_pGameObjects.at(4)->SetPosition(XMFLOAT3(_pGameObjects.at(4)->GetPosition().x - 0.1f, _pGameObjects.at(4)->GetPosition().y, _pGameObjects.at(4)->GetPosition().z));
-	//}
-	//if (GetAsyncKeyState('J'))
-	//{
-	//	_pGameObjects.at(4)->SetPosition(XMFLOAT3(_pGameObjects.at(4)->GetPosition().x, _pGameObjects.at(4)->GetPosition().y, _pGameObjects.at(4)->GetPosition().z - 0.1f));
-	//}
-	//if (GetAsyncKeyState('K'))
-	//{
-	//	_pGameObjects.at(4)->SetPosition(XMFLOAT3(_pGameObjects.at(4)->GetPosition().x + 0.1f, _pGameObjects.at(4)->GetPosition().y, _pGameObjects.at(4)->GetPosition().z));
-	//}
+	if (GetAsyncKeyState(VK_ESCAPE))
+	{
+		PostQuitMessage(WM_QUIT);
+	}
 
 	return false;
 }

@@ -23,13 +23,13 @@ int GUIHandler::_pIndexBufferSize = 10000;
 INT64 GUIHandler::_pTime = 0;
 INT64 GUIHandler::_pTicksPerSecond = 0;
 
-int GUIHandler::_pShaderControlOption = 1;
+int GUIHandler::_pShaderControlOption = 2;
 bool GUIHandler::_pBlurOn = false;
 bool GUIHandler::_pBlurWasOn = false;
 int GUIHandler::_pBlurEffectPasses = 0;
 float GUIHandler::_pBlurIntensity = 0;
 
-bool GUIHandler::_pShadowMappingOn = true;
+bool GUIHandler::_pShadowMappingOn = false;
 
 bool GUIHandler::_pWhiteLightOn = true;
 bool GUIHandler::_pRedLightOn = true;
@@ -40,7 +40,7 @@ int GUIHandler::_pControlledLight = 1;
 
 bool GUIHandler::_pDOFActive = false;
 
-bool GUIHandler::_pSelfShadingOn = false;
+bool GUIHandler::_pSelfShadingOn = true;
 
 ImGuiIO& GUIHandler::io = ImGui::GetIO();
 

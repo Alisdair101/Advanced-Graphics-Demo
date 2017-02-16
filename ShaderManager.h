@@ -27,6 +27,8 @@ public:
 
 	static void ExecuteShadersInOrder(ConstantBuffer* cb, vector<SceneLight*> lights, vector<GameObject*> gameObjects);
 
+	static void TurnOffDOF();
+
 private: 
 	static HRESULT SetupShader(string shaderName, string rtvName, float renderWidth, float renderHeight, WCHAR* szFileName, vector<D3D11_INPUT_ELEMENT_DESC> layoutDescVec, ID3D11Device* d3dDevice);
 	static void HandleToggleShaderControls(int selectedShaderOption);
@@ -38,5 +40,5 @@ public:
 private:
 	static int _pCurrentShaderOptionSelected;
 	static bool _pDeferred;
-	static bool _pDOFActive;
+	static bool _pDOFWasOn;
 };

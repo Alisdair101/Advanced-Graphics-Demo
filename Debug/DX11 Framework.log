@@ -1,14 +1,2 @@
-﻿  GUIHandler.cpp
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\dx11apphelper.h(76): warning C4091: 'static ': ignored on left of 'DX11AppHelper' when no variable is declared
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.h(74): warning C4091: 'static ': ignored on left of 'GUIHandler' when no variable is declared
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.cpp(239): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.cpp(240): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.cpp(278): warning C4458: declaration of 'io' hides class member
-  k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.h(51): note: see declaration of 'GUIHandler::io'
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.cpp(271): warning C4100: 'device_context': unreferenced formal parameter
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.cpp(271): warning C4100: 'device': unreferenced formal parameter
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.cpp(271): warning C4100: 'hwnd': unreferenced formal parameter
-k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.cpp(683): warning C4458: declaration of 'io' hides class member
-  k:\university\advanced graphics and real-time rendering semester 1\updated framework\advanced-graphics-demo\guihandler.h(51): note: see declaration of 'GUIHandler::io'
-  DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.exe
+﻿  DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.exe
   DX11 Framework.vcxproj -> K:\University\Advanced Graphics and Real-Time Rendering Semester 1\Updated Framework\Advanced-Graphics-Demo\Debug\DX11 Framework.pdb (Full PDB)

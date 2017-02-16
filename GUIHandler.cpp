@@ -203,6 +203,14 @@ void GUIHandler::UpdateGUI()
 	}
 }
 
+void GUIHandler::ResetBlurOptions()
+{
+	GUIHandler::_pDOFActive = false;
+	GUIHandler::_pBlurOn = false;
+	GUIHandler::_pBlurIntensity = 0.0f;
+	GUIHandler::_pBlurEffectPasses = 0;
+}
+
 void GUIHandler::ExitGUI()
 {
 	InvalidateDeviceObjects();

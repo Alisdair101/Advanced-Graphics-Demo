@@ -19,6 +19,8 @@ public:
 	static void UpdateGUI();
 	static void ExitGUI();
 
+	static void ResetBlurOptions();
+
 private:
 	static bool InitGUI(void* hwnd, ID3D11Device* device, ID3D11DeviceContext* device_context);
 	static void RenderDrawLists(ImDrawData* draw_data);
